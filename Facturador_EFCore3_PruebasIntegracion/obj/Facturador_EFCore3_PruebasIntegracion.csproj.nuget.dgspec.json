@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3_PruebasIntegracion\\Facturador_EFCore3_PruebasIntegracion.csproj": {}
+  },
+  "projects": {
+    "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3\\Facturador_EFCore3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3\\Facturador_EFCore3.csproj",
+        "projectName": "Facturador_EFCore3",
+        "projectPath": "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3\\Facturador_EFCore3.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3_PruebasIntegracion\\Facturador_EFCore3_PruebasIntegracion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3_PruebasIntegracion\\Facturador_EFCore3_PruebasIntegracion.csproj",
+        "projectName": "Facturador_EFCore3_PruebasIntegracion",
+        "projectPath": "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3_PruebasIntegracion\\Facturador_EFCore3_PruebasIntegracion.csproj",
+        "packagesPath": "C:\\Users\\Juan Carlos\\.nuget\\packages\\",
+        "outputPath": "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3_PruebasIntegracion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3\\Facturador_EFCore3.csproj": {
+                "projectPath": "D:\\Estudio\\Entity Framework Core 3.1\\Facturador_EFCore3\\Facturador_EFCore3\\Facturador_EFCore3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
